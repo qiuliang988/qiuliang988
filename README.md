@@ -5,10 +5,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=qiuliang988&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-- 🔭 : OLAP & Clickhouse
-- 🤔 : OLAP developer
+- 🔭 : Spark & Kyuubi & YARN & Ranger
+- 🤔 : I’m currently working on Spark
 - 📫 :`qiuliang01@bilibili.com`
-- ⚡: `Dota3 & Coding`
+- ⚡: `Coding & On coding road`
 <!--
 **qiuliang988/qiuliang988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
